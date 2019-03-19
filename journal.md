@@ -1,8 +1,9 @@
 # Title
 Aircarft and simulated Measurments of biomass buring aerosol over West-Africa
 
-# Author 
- John Simth, Elliot Cooksey-Nash,
+#Authour
+John Simth, university of mordor, Elliot Cooksey-Nash, university of manchester
+
 
 # Intoduction 
 Bio Mass buring areosal are important for the radius of effect but the magnitude and even distribution are not understood.
