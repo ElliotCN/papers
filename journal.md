@@ -16,4 +16,7 @@ Im making some sweet sweet changes to see what happens
 
 #methodology 
 
-we used a TOF-AWs to measure the aerosol content of the air
+we used a TOF-AWs to measure the aerosol content of the air.
+
+# instrumentation
+concentration was measured using a 'chicken' sandwhich 
