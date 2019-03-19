@@ -13,3 +13,7 @@ Our measurments add to the knowledge using a mass spectrometer data (allan et al
 Johns box model shows consitancy with aircraft measurments
 
 Im making some sweet sweet changes to see what happens
+
+#methodology 
+
+we used a TOF-AWs to measure the aerosol content of the air
