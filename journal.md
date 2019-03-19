@@ -11,3 +11,5 @@ Our measurments add to the knowledge using a mass spectrometer data (allan et al
 
 #Simulations
 Johns box model shows consitancy with aircraft measurments
+
+Im making some sweet sweet changes to see what happens
