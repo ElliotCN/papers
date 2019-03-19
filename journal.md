@@ -1,8 +1,8 @@
 # Title
-Measurments of biomass buring aerosol over West-Africa
+Simulated Measurments of biomass buring of Aerosol over West-Africa
 
 # Author 
-Elliot Cooksey-Nash
+Elliot Cooksey-Nash, John Simth
 
 # Intoduction 
 Bio Mass buring areosal are important for the radius of effect but the magnitude and even distribution are not understood.
