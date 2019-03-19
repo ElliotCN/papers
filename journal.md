@@ -30,3 +30,6 @@ Draft where figure will be in finished paper
 
 #conclusion
 Should be all alright and the chicken sandwhich was very nice
+
+#Acknowledgements 
+Thanks to evryone and eveything, big poop
